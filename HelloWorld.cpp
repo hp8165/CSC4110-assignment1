@@ -1,3 +1,5 @@
+// Author: Adam Saadeh <hp8165@wayne.edu>
+
 #include <iostream>
 using namespace std;
 
